@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 add merge
 stash test
 creating a new branch is quick
+branch test 2
+
