@@ -8,4 +8,4 @@ add merge
 stash test
 creating a new branch is quick
 branch test 2
-
+branch test 3
